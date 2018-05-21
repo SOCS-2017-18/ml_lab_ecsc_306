@@ -31,7 +31,8 @@ Installing software:
 
 5. Find latestWheel for tensorFlow from 
 
-	pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp36-cp36m-linux_x86_64.whl
+	pip install --ignore-installed --upgrade 
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.8.0-cp36-cp36m-linux_x86_64.whl
 
 
 	Find latestWheel for tensorFlow from 
